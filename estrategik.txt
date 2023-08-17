@@ -1,1 +1,11 @@
 hello güirl
+1.Analizis y comprensión del problema.
+2.Plantear una serie de pasos para llegar a la solucion del problema.
+3.Metodo para realizar el algoritmo.
+5.Construcción del algoritmo.
+6.Montar el programa en C++.
+7.Hacer la depuración.
+8.Comprobar el funcionamiento, mediante una serie de pruebas.
+9.Finalización del programa.
+
+(Tener en cuenta la optimización del hardwar de la maquina, y temas de tiempo y eficiencia). 
