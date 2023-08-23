@@ -1,11 +1,29 @@
-hello güirl
-1.Analizis y comprensión del problema.
-2.Plantear una serie de pasos para llegar a la solucion del problema.
-3.Metodo para realizar el algoritmo.
-5.Construcción del algoritmo.
-6.Montar el programa en C++.
-7.Hacer la depuración.
-8.Comprobar el funcionamiento, mediante una serie de pruebas.
-9.Finalización del programa.
+PROCESO PARA CREAR MI PROGRAMA:
 
-(Tener en cuenta la optimización del hardwar de la maquina, y temas de tiempo y eficiencia). 
+1.Tener presente en cuanto tiempo  se debe entregar el programa.
+
+2.Realizar una distribución del tiempo disponible, es decir, cuantas horas por dia se beben dedicar a la elaboración del programa.
+	2.1 El programa debe estar terminado por lo menos un dia previo a su entrega, con el objetivo de dar multiples revisiones (pruebas, modificaciones,...).
+
+3.Leer, analizar y comprender el problema (lo que quiere el cliente).
+
+4.Plantear un metodo para realizar el algoritmo (sin tener en cuenta el lenguaje), cantidad de bucles, condicionales y variables, y que tipo de dato representan estas ultimas.
+
+5.Construcción del algoritmo.
+
+6.Realizar pruebas de escritorio al algoritmo.
+
+7.Analizar el  algoritmo, si existe otro metodo más eficiente o no, en caso afirmativo:
+	7.1 Modificar el algoritmo al metodo más eficiente.
+	7.2 Realizar pruebas de escritorio al algoritmo.
+
+8.Transformar el algoritmo a programa en C++.
+
+9.Hacer la depuración.
+
+10.Comprobar el funcionamiento, mediante una serie de pruebas. 
+
+11.Finalización del programa.
+
+
+
